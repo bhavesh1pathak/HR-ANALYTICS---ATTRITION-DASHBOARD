@@ -22,4 +22,4 @@ Identified high attrition trends in early years of employment
 Created interactive slicers for Department, Education Field, Age Group, and Business Travel
 Provided actionable insights to reduce employee turnover and improve HR strategy
 
-IMAGE
+IMAGE  (https://github.com/bhavesh1pathak/HR-ANALYTICS---ATTRITION-DASHBOARD/blob/main/HR%20ANALYTICS%20-ATTRITION%20DASHBOARD.png)
